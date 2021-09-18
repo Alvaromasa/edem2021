@@ -11,7 +11,7 @@ Linkedln: [Álvaro Masa de Vega](https://www.linkedin.com/mynetwork/)
 # Objetivo
 
 El objetivo de este repositorio es el de enseñar todos los ejercicios que vamos realizando durante el año. 
-Github es una pagina que está ganando mucha fama en el mundo de la programación es por ello que a nivel académico puede ser un plus en nuestra formación
+Github es una pagina que está ganando mucha fama en el mundo de la programación es por ello que a nivel académico puede ser un plus en nuestra formación nn nn n
 
 > La innovación es lo que distingue a un líder de los demás. Steve Jobs
 
